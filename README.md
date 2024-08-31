@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Servay](https://tinyurl.com/TheServay)
 
-- 🌱 I’m currently learning **JS, Typescript, CCS, PYTHON, LUA** (I Don't know bash yet)
+- 🌱 I’m currently learning **JS, TYPESCRIPT, CCS, PYTHON, LUA** (I Don't know bash yet)
 
 - 📫 How to reach me **Coming Soon**
 
